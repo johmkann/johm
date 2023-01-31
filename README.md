@@ -1,6 +1,6 @@
-### Hi there 👋, Johm Kann
+### Hi there 👋,
 #### Development and Care
-We specialize in website development and website maintenance, SEO services, content writing and marketing, website hosting, Google Ads and Facebook Ads services. Our team of seasoned experts are committed to delivering results that exceed expectations. With our wealth of experience, you can count on us to provide top-notch solutions that will take your business to the next level. Contact us today to get started!
+I specialize in website development and website maintenance, SEO services, content writing and marketing, website hosting, Google Ads and Facebook Ads services. Our team of seasoned experts are committed to delivering results that exceed expectations. With our wealth of experience, you can count on us to provide top-notch solutions that will take your business to the next level. Contact us today to get started!
 
 Skills: REACT / JS / HTML / CSS / Boostrap
 
